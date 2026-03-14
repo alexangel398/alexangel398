@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alex Ángel Surco Garnica 👋
 
-🎓 Estudiante avanzado de la **Lic. en Ciencia de Datos** y Analista de Sistemas.  
+🎓 Analista de Sistemas.  
 💻 Experiencia en **análisis, modelado y visualización de datos** con SQL, Python y Power BI.  
 📊 Participación en proyectos académicos y reales de **diseño, implementación y normalización de bases de datos**.  
 🚀 Actualmente me desarrollo como **Implementador de Sistemas en el Ministerio de Salud** y en proyectos de **desarrollo backend y bases de datos**.  
