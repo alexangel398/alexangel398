@@ -44,19 +44,6 @@ Me gusta construir soluciones tecnológicas y aprender nuevas herramientas.
 - Trello
 - Figma
 
----
-
-## 📂 Proyectos
-
-🔹 **Hoy Se Juega**  
-Sistema web de reservas de canchas deportivas.  
-Tecnologías: ASP.NET, HTML, CSS, JavaScript, SQL Server.
-
-🔹 **True Maker**  
-Sistema web de gestión de stock.  
-Tecnologías: Python, Django, HTML, CSS, SQLite.
-
----
 
 ## 📫 Contacto
 
